@@ -3,4 +3,4 @@ kind: Deployment
 metadata:
   name: app
   labels:
-    app: moja-app
+    app: moja-app11
